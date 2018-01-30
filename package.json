@@ -1,0 +1,20 @@
+{
+  "name": "pig",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abraaobuenotype/pig.git"
+  },
+  "keywords": [],
+  "author": "Abraão Bueno <abraao.as3@gmail.com>",
+  "license": "MIT Licence",
+  "bugs": {
+    "url": "https://github.com/abraaobuenotype/pig/issues"
+  },
+  "homepage": "https://github.com/abraaobuenotype/pig#readme"
+}
